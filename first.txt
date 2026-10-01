@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hii My name is Jack 
+=======
+Hii My name is Jack 
+>>>>>>> 5e337d4 (logintestfile added!)
